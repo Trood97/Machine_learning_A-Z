@@ -34,6 +34,3 @@ plt.show()
 #</editor-fold>
 
 #bonus = https://www.superdatascience.com/pages/ml-regression-bonus-1 #
-
-
-
